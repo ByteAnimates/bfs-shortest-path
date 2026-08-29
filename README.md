@@ -6,6 +6,7 @@ The working code from the [@ByteAnimates](https://www.facebook.com/ByteAnimates)
 
 ```bash
 python3 main.py
+python3 test_solution.py
 ```
 
 No dependencies. Python 3.9+.
@@ -29,6 +30,7 @@ def bfs(start, goal):
 | --- | --- |
 | `main.py` | run this — the demo, with real inputs and the claims asserted |
 | `solution.py` | the working implementation, with the helpers the reel named |
+| `test_solution.py` | the properties, checked — they survive a rewrite |
 
 ---
 
